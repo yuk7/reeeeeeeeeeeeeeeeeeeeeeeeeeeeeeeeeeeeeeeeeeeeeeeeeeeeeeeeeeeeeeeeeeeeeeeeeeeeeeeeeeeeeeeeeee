@@ -1,9 +1,7 @@
-function reee() {
-	console.log('r');
+console.log('r');
 
-	while('e') {
-		console.log('e');
-	}
+while('e') {
+	console.log('e');
 }
 
 export default reee;
